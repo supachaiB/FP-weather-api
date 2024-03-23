@@ -1,0 +1,526 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_sunny.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\layout_activity_city_list.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\layout\\activity_city_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_windy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\windy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_arrow_down.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_night_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\night_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_haze_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\haze_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_cloudy_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\cloudy_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_plus.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_sunny.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_windy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\windy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_arrow_down.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_storm.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\storm.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_snow_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\snow_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_snow_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\snow_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_arrow_up.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_sunny_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\sunny_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_snowy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\snowy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_wind.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_snow_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\snow_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_rainy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\rainy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_snowy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\snowy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_humidity.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_snowy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\snowy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_arrow_down.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_snowy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\snowy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_storm.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\storm.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_rainy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\rainy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable_forecast_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable\\forecast_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_haze_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\haze_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_cloudy_sunny.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\cloudy_sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_sunny.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_windy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\windy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_rainy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\rainy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_humidity.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_cloudy_sunny.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\cloudy_sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_windy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\windy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_plus.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_wind.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_arrow_down.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_cloudy_sunny.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\cloudy_sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_snow_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\snow_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_arrow_up.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_cloudy_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\cloudy_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_rainy_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\rainy_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_cloudy_sunny.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\cloudy_sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_sunny_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\sunny_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_rainy_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\rainy_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_arrow_up.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_storm.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\storm.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_cloudy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_rainy_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\rainy_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_humidity.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_rainy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\rainy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_storm.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\storm.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_sunny_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\sunny_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_snow_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\snow_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_windy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\windy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_plus.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_cloudy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_storm.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\storm.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_night_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\night_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_haze_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\haze_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_sunny.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_sunny_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\sunny_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_cloudy_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\cloudy_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_rainy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\rainy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_cloudy_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\cloudy_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_windy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\windy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_arrow_up.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_cloudy_sunny.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\cloudy_sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_rainy_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\rainy_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_arrow_down.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_rainy_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\rainy_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_rainy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\rainy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_sunny_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\sunny_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_wind.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_plus.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\layout_forecast_viewholder.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\layout\\forecast_viewholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable_edittext_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_storm.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\storm.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_cloudy_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\cloudy_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_night_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\night_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\layout_city_viewholder.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\layout\\city_viewholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_snow_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\snow_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_wind.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_snowy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\snowy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_cloudy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\cloudy.png"
+    },
+    {
+        "merged": "com.example.weather_app-merged_res-64:/layout_activity_main.xml.flat",
+        "source": "com.example.weather_app-main-66:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_night_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\night_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_humidity.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_wind.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_night_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\night_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_snowy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\snowy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_cloudy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_wind.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_sunny.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_sunny_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\sunny_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-ldpi_arrow_up.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-ldpi\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_haze_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\haze_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_haze_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\haze_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_arrow_down.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_cloudy_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\cloudy_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_sunny.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_cloudy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_plus.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-hdpi_night_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-hdpi\\night_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_haze_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\haze_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxhdpi_arrow_up.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxhdpi\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_rainy_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\rainy_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_cloudy_sunny.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\cloudy_sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xxxhdpi_plus.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xxxhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_cloudy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-xhdpi_humidity.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-xhdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-merged_res-64:\\drawable-mdpi_humidity.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.weather_app-main-66:\\drawable-mdpi\\humidity.png"
+    }
+]
