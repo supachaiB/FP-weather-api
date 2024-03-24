@@ -7,8 +7,10 @@
   - settings.gradle.kts
 เพิ่มภาพใน drawble
 2. สร้างโฟล์เดอร์ หลักๆ ->
-  java/com.example.weather_app -> Activity, Adapter, model, Repository, Server เป็นโฟล์เดอร์ที่รวมไฟล์ที่ทำงานร่วมกันของ api, การทำงานของแอปพลืเคชั่นโดยรวม, หน้าแสดงผล 
-  res/สร้าง layout เป็นรวมไฟล์ที่ใช้แสดงผลให้ผู้ใช้เห็นและใช้งาน
+  java/com.example.weather_app -> Activity, Adapter, model, Repository, Server
+เป็นโฟล์เดอร์ที่รวมไฟล์ที่ทำงานร่วมกันของ api, การทำงานของแอปพลืเคชั่นโดยรวม,
+
+หน้าแสดงผล res/สร้าง layout เป็นรวมไฟล์ที่ใช้แสดงผลให้ผู้ใช้เห็นและใช้งาน
 
 3. การแสดงผล
 หน้าหลัก - แสดงผลพยากรณ์และสภาพอากาศ
